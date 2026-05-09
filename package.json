@@ -1,0 +1,8 @@
+{
+  "name": "projectassure-lps-demo",
+  "version": "1.0.0",
+  "description": "Project Assure LPS demo app",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
